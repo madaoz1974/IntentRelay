@@ -1,0 +1,10 @@
+Dockerfile
+docker-compose.yml
+server.js
+.env
+.env.local
+*.log
+node_modules
+.git
+README.md
+.DS_Store
